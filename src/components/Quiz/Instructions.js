@@ -15,7 +15,7 @@ const Instructions = () => (
             <h1>How to Play</h1>
             <p>Read the instructions carefully, it contains all the rules and regulations</p>
             <ul className = 'browser-default' id='main-list'>
-                <li>This Game has a duration of 15 mins and completes as soon as the time elapses</li>
+                <li>This Game has a duration of 1 min per question and goes to next question as soon as the time elapses</li>
                 <li>The game consists of 20 questions</li>
                 <li>
                     Each questions has 4 options
@@ -26,21 +26,17 @@ const Instructions = () => (
                     {/* <img src = {answer} alt = 'answer'/> */}
                 </li>
                 <li>
-                    Each game has 2 lifelines namely:
+                    Each game has 1 lifeline namely:
                     <ul>
                         <li>
-                            50-50 chances (It will remove 2 wrong answers)
-                            {/* <img src = {fiftyFifty} alt = '50-50 example'/> */}
-                        </li>
-                        <li>
-                            Hints(It will remove a wrong option)
+                            Hints(It will remove a wrong option). We can use hint only thrice anytime in the entire game.
                             {/* <img src = {hints} alt = 'hints example'/> */}
                         </li>
                     </ul>
                 </li>
                 <li>Feel free to quit anytime, results will be displayed after you quit</li>
-                <li>The timer starts as soon as the game loads</li>
-                <li>Let's get started...</li>
+                <li>The timer starts for each question as soon as the question loads</li>
+                <li>Lets get started...</li>
             </ul>
             <div>
                 <span className = 'left'><Link to = '/'>Give up!</Link></span>
