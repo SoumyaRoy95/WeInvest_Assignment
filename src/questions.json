@@ -1,0 +1,162 @@
+[
+    {
+        "question": "Who was the first Indian olympic Gold medalist?",
+        "optionA": "Vijender Singh",
+        "optionB": "Mary Kom",
+        "optionC": "Abhinav Bindra",
+        "optionD": "P.T.Usha",
+        "answer": "Abhinav Bindra"
+    },
+    {
+        "question": "Which country hosted the first commonwealth games?",
+        "optionA": "USA",
+        "optionB": "Canada",
+        "optionC": "Mexico",
+        "optionD": "Japan",
+        "answer": "Canada"
+    },
+    {
+        "question": "Which cricketer scored the first ever century?",
+        "optionA": "Alfred Shaw",
+        "optionB": "Dave Gregory",
+        "optionC": "James Lillywhite",
+        "optionD": "Charles Bannerman",
+        "answer": "Charles Bannerman"
+    },
+    {
+        "question": "Which country invented the sport fencing?",
+        "optionA": "Germany",
+        "optionB": "Spain",
+        "optionC": "England",
+        "optionD": "France",
+        "answer": "Spain"
+    },
+    {
+        "question": "Who is the highest scorer in the history of LA Lakers?",
+        "optionA": "Kareem Abdul-Jabbar",
+        "optionB": "LeBron James",
+        "optionC": "Kobe Bryant",
+        "optionD": "Magic Johnson",
+        "answer": "Kareem Abdul-Jabbar"
+    },
+    {
+        "question": "What is the national sport of India?",
+        "optionA": "Kabaddi",
+        "optionB": "Cricket",
+        "optionC": "Football",
+        "optionD": "Hockey",
+        "answer": "Hockey"
+    },
+    {
+        "question": "What is the all time medals tally for India in olympics?",
+        "optionA": "9 Gold 7 Silver 12 Bronze",
+        "optionB": "6 Gold 8 Silver 11 Bronze",
+        "optionC": "2 Gold 5 Silver 17 Bronze",
+        "optionD": "2 Gold 8 Silver 15 Bronze",
+        "answer": "9 Gold 7 Silver 12 Bronze"
+    },
+    {
+        "question": "What sport is hosted in The Colosseum, Rome?",
+        "optionA": "Chariot Races",
+        "optionB": "Gladiator Battles",
+        "optionC": "Bull Fighting",
+        "optionD": "Knighthood Competition",
+        "answer": "Gladiator Battles"
+    },
+    {
+        "question": "Who was the first ever captain of the Indian cricket team?",
+        "optionA": "C K Nayudu",
+        "optionB": "Mansur Ali Khan Pataudi",
+        "optionC": "Polly Umrigar",
+        "optionD": "Lala Amarnath",
+        "answer": "C K Nayudu"
+    },
+    {
+        "question": "In which year was archery considered as a sport?",
+        "optionA": "1899",
+        "optionB": "1900",
+        "optionC": "1901",
+        "optionD": "1903",
+        "answer": "1900"
+    },
+    {
+        "question": "Who is the first man to win a marathon race in olympics?",
+        "optionA": "Arthur Blake",
+        "optionB": "Gyula Kellner",
+        "optionC": "Edwin Flack",
+        "optionD": "Spyridon Louis",
+        "answer": "Spyridon Louis"
+    },
+    {
+        "question": "When were the athletics introduced in olympics?",
+        "optionA": "1892",
+        "optionB": "1896",
+        "optionC": "1900",
+        "optionD": "1904",
+        "answer": "1896"
+    },
+    {
+        "question": "Which two countries participated in the first ever cricket test match?",
+        "optionA": "England vs West Indies",
+        "optionB": "Australia vs West Indies",
+        "optionC": "Australia vs England",
+        "optionD": "England vs India",
+        "answer": "Australia vs England"
+    },
+    {
+        "question": "Who is the highest runs scorer in the history of baseball?",
+        "optionA": "Pete Rose",
+        "optionB": "T Y Cobb",
+        "optionC": "Rickey Henderson",
+        "optionD": "Hank Aaron",
+        "answer": "Rickey Henderson"
+    },
+    {
+        "question": "Which country introduced short put?",
+        "optionA": "Norway",
+        "optionB": "Denmark",
+        "optionC": "Finland",
+        "optionD": "Scotland",
+        "answer": "Scotland"
+    },
+    {
+        "question": "Who was the first Indian woman to win a medal in olympics?",
+        "optionA": "Saina Nehwal",
+        "optionB": "Mary Kom",
+        "optionC": "P T Usha",
+        "optionD": "Karnam Malleswari",
+        "answer": "Karnam Malleswari"
+    },
+    {
+        "question": "When did India play their first test match against Pakistan?",
+        "optionA": "1951",
+        "optionB": "1952",
+        "optionC": "1953",
+        "optionD": "1954",
+        "answer": "1952"
+    },
+    {
+        "question": "Who scored the first ever goal in the history of FIFA World Cup?",
+        "optionA": "Sándor Kocsis",
+        "optionB": "Guillermo Stábile",
+        "optionC": "Lucien Laurent",
+        "optionD": "Jimmy Douglas",
+        "answer": "Lucien Laurent"
+    },
+    {
+        "question": "What is the longest jump ever in the history of long jump?",
+        "optionA": "8.5m",
+        "optionB": "8.7m",
+        "optionC": "8.9m",
+        "optionD": "9.1m",
+        "answer": "8.9m"
+    },
+    {
+        "question": "Who won the firct U19 Cricket World Cup?",
+        "optionA": "India",
+        "optionB": "Australia",
+        "optionC": "England",
+        "optionD": "Pakistan",
+        "answer": "India"
+    }
+]

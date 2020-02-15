@@ -1,0 +1,94 @@
+.questions{
+    background-color: cornsilk;
+    border-left: 5px solid green;
+    width: 80%;
+    margin-top: 10px;
+    padding: 50px 30px;
+}
+h3{
+    text-align: center;
+    font-weight: lighter;
+
+}
+.lifeline-container{
+    display: flex;
+    justify-content: space-between;
+}
+.lifeline{
+    background-color: chocolate;
+    border: none;
+    color: black;
+    cursor: pointer;
+    margin-right: 30px;
+    padding: 15px 15px;
+    border-radius: 5px;
+    box-shadow: 4px;
+}
+h5{
+    font-size: 2rem;
+    line-height: 1.5;
+    text-align: center;
+}
+.options-container{
+    display: inline-block;
+    width: 50%;
+}
+.option{
+    background-color: skyblue;
+    border-radius: 10px;
+    color: black;
+    cursor: pointer;
+    margin: 10px 10px;
+    padding: 5px;
+    transition: 0.5s linear all;
+    text-align: center;
+    width: 80%;
+}
+.option:hover{
+    background-color: yellow;
+}
+.button-container{
+    display: flex;
+    justify-content: flex-start;
+    width: 75%;
+    margin: 10px 10px 10px 10px;
+    padding: 5px;
+
+}
+.button-container button{
+    border: none;
+    color: black;
+    cursor: pointer;
+    margin-right: 30px;
+    padding: 15px 15px;
+}
+.button-container button:first-child{
+    background-color: skyblue;
+    box-shadow: slategrey;
+
+}
+.button-container button:first-child:hover{
+    background-color: yellow;
+}
+.button-container button:nth-child(2){
+    background-color: skyblue;
+    box-shadow: slategrey;
+
+}
+.button-container button:nth-child(2):hover{
+    background-color: lightgreen;
+}
+.button-container button:last-child{
+    background-color: red;
+    box-shadow: grey;
+
+}
+timer-container{
+    margin: 20px 20px 20px 20px;
+    padding: 10px 25px;
+}
+.disable{
+    background-color: lightgreen;
+    opacity: 0.5;
+    pointer-events: none;
+}
